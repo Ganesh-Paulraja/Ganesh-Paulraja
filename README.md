@@ -5,7 +5,7 @@ Software Engineer @ [ConvertCart](https://www.convertcart.com/)
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently working on mern stack
 - 💞️ I’m looking to collaborate on web development
-- 📫 If anybody interested mail me ganeshpaulraja@gmail.com
+- 📫 If anybody interested mail me ganeshsgk555@gmail.com
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/developer_ganesh/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ganesh-paulraja/)
 - 😄 Pronouns: Techie
 
