@@ -20,4 +20,4 @@ Software Engineer @ [ConvertCart](https://www.convertcart.com/)
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh-Paulraja&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Paulraja&bg_color=000000&color=ffffff&line=ffffff&point=00ff2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Paulraja&bg_color=000000&color=ffffff&line=ffffff&point=00ff2a&area=true&hide_border=true)]
